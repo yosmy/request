@@ -1,0 +1,12 @@
+{
+  "name": "@yosmy/request",
+  "version": "0.1.0",
+  "main": "build/index.js",
+  "dependencies": {
+    "superagent": "5.0.5"
+  },
+  "devDependencies": {
+    "babel-cli": "6.26",
+    "babel-preset-env": "1.7"
+  }
+}
